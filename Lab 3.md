@@ -71,7 +71,9 @@ fi
 n1=$n1+1
 print $n2
 done
-8. Create the following menu:
+
+answer : 1
+9. Create the following menu:
 a. Press 1 to ls
 b. Press 2 to ls –a
 c. Press 3 to exit
